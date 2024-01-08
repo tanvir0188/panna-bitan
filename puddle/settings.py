@@ -26,7 +26,10 @@ SECRET_KEY = 'django-insecure-%upec_)uu=1a28tsspfet0l3ut1ftmaczbq#5xp&lwxxa9(dxv
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+# django tries to redirect to profile after logging in. we have to redirect it into our index page
+LOGIN_URL = '/login/'
+LOGIN_REDIRECT_URL = '/'
+LOGOUT_REDIRECT_URL = '/'
 
 # Application definition
 
