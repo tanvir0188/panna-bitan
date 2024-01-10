@@ -1,0 +1,27 @@
+{% extends "core/base.html" %}
+
+{% block title %} New conversation{% endblock  %}
+
+{% block content %}
+    <h1 class = "mb-6 text-3xl">New conversation </h1>
+
+    <div class = "space-y-6">
+        {% for conversation in conversations %}
+            <a href="">
+                <div class ="p-6 flex bg-gray-100 rounded-xl">
+                    <img src="{{conversation.item.image.url}}"class= "w-20 rounded-xl">
+                </div>
+
+                <div>
+                    {% comment %} to get all the members, we have to use the following code {% endcomment %}
+                    {% for member in conversation.members.all %}
+                        {% if member != request.user %}
+                            <p class = "mb-4"> <strong> {{member.username}}</strong> | {{conversation.modified_at}}</p>
+                            <p> {{conversation.item.name}}</p>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+        {% endfor %}
+    </div>
+
+{% endblock %}
