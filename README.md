@@ -37,23 +37,23 @@ To deploy this project run
 ![App Screenshot](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(163).png)
 
 ### Add your items
-https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(164).png
+![App Screenshot](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(164).png)
 
 ### Dashboard
-https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(168).png
+![App Screenshot](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(168).png)
 
 ### Detail of your added item
-https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(169).png
+![App Screenshot](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(169).png)
 
 ### Detail of other user's item
-https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(170).png
+![App Screenshot](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(170).png)
 
 ### Browse page
-https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(165).png
+![App Screenshot](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(165).png)
 
 ### Inbox page
-https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(166).png
+![App Screenshot](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(166).png)
 
 ### Conversation page
-https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(167).png
+![App Screenshot](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(167).png)
 
