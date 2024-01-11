@@ -34,7 +34,7 @@ To deploy this project run
 ## Demo
 
 ### Front page
-https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(163).png
+[https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(163).png](https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(163).png?raw=true)
 
 ### Add your items
 https://github.com/tanvir0188/Django-project/blob/master/demo/Screenshot%20(164).png
