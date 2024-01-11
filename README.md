@@ -29,7 +29,6 @@ To deploy this project run
 -Python
 
 -Django
-## Platform
 
 ## Demo
 
